@@ -1,0 +1,14 @@
+== Changelog ==
+
+Version 1.0
+* Initial Release
+
+Version 1.6.05
+* Copyright Text option fixed
+* Unused tag removed
+* Footer link fixed
+
+Version 1.6.05
+* Theme URI update
+* Info and documentation tab removed.
+* 
